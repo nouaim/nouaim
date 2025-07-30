@@ -17,4 +17,4 @@ My primary stack is:
 - nouaim.mebarki@outlook.com
   
 ### Or via my website (preferred):
-[nouaim.github.io](nouaim.github.io)
+[nouaim.github.io](https://nouaim.github.io)
